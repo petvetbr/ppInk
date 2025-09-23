@@ -1,0 +1,229 @@
+09 / 23 / 2025 17:37UnhandledException
+
+version 1.9.0.31706 built on Tue 09/23/2025 1
+Oops, ppInk crashed! Please include the following information if you plan to contact the developers:
+
+Attempt by security transparent method 'Microsoft.Ink.DrawingAttributes.set_Color(System.Drawing.Color)' to call native code through method 'Microsoft.Ink.IInkDrawingAttributes.set_Color(Int32)' failed.  Methods must be security critical or security safe-critical to call native code.
+
+Stack Trace:
+   at Microsoft.Ink.DrawingAttributes.set_Color(Color value)
+   at gInk.Root.SetDefaultPens() in g:\src\ppInk\src\Root.cs:line 921
+   at gInk.Root..ctor() in g:\src\ppInk\src\Root.cs:line 525
+   at gInk.Program.Main(String[] args) in g:\src\ppInk\src\Program.cs:line 92
+
+09 / 23 / 2025 17:38UnhandledException
+
+version 1.9.0.31738 built on Tue 09/23/2025 1
+Oops, ppInk crashed! Please include the following information if you plan to contact the developers:
+
+Attempt by security transparent method 'Microsoft.Ink.DrawingAttributes.set_Color(System.Drawing.Color)' to call native code through method 'Microsoft.Ink.IInkDrawingAttributes.set_Color(Int32)' failed.  Methods must be security critical or security safe-critical to call native code.
+
+Stack Trace:
+   at Microsoft.Ink.DrawingAttributes.set_Color(Color value)
+   at gInk.Root.SetDefaultPens() in g:\src\ppInk\src\Root.cs:line 923
+   at gInk.Root..ctor() in g:\src\ppInk\src\Root.cs:line 526
+   at gInk.Program.Main(String[] args) in g:\src\ppInk\src\Program.cs:line 92
+
+09 / 23 / 2025 17:41UnhandledException
+
+version 1.9.0.31831 built on Tue 09/23/2025 1
+Oops, ppInk crashed! Please include the following information if you plan to contact the developers:
+
+Attempt by security transparent method 'Microsoft.Ink.DrawingAttributes.set_Color(System.Drawing.Color)' to call native code through method 'Microsoft.Ink.IInkDrawingAttributes.set_Color(Int32)' failed.  Methods must be security critical or security safe-critical to call native code.
+
+Stack Trace:
+   at Microsoft.Ink.DrawingAttributes.set_Color(Color value)
+   at gInk.Root.SetDefaultPens() in g:\src\ppInk\src\Root.cs:line 924
+   at gInk.Root..ctor() in g:\src\ppInk\src\Root.cs:line 527
+   at gInk.Program.Main(String[] args) in g:\src\ppInk\src\Program.cs:line 92
+
+09 / 23 / 2025 17:42UnhandledException
+
+version 1.9.0.31864 built on Tue 09/23/2025 1
+Oops, ppInk crashed! Please include the following information if you plan to contact the developers:
+
+Attempt by security transparent method 'Microsoft.Ink.DrawingAttributes.set_Color(System.Drawing.Color)' to call native code through method 'Microsoft.Ink.IInkDrawingAttributes.set_Color(Int32)' failed.  Methods must be security critical or security safe-critical to call native code.
+
+Stack Trace:
+   at Microsoft.Ink.DrawingAttributes.set_Color(Color value)
+   at gInk.Root.SetDefaultPens() in g:\src\ppInk\src\Root.cs:line 924
+   at gInk.Root..ctor() in g:\src\ppInk\src\Root.cs:line 527
+   at gInk.Program.Main(String[] args) in g:\src\ppInk\src\Program.cs:line 94
+
+09 / 23 / 2025 17:45UnhandledException
+
+version 1.9.0.31967 built on Tue 09/23/2025 1
+Oops, ppInk crashed! Please include the following information if you plan to contact the developers:
+
+Attempt by security transparent method 'Microsoft.Ink.DrawingAttributes.set_Color(System.Drawing.Color)' to call native code through method 'Microsoft.Ink.IInkDrawingAttributes.set_Color(Int32)' failed.  Methods must be security critical or security safe-critical to call native code.
+
+Stack Trace:
+   at Microsoft.Ink.DrawingAttributes.set_Color(Color value)
+   at gInk.Root.SetDefaultPens() in g:\src\ppInk\src\Root.cs:line 925
+   at gInk.Root..ctor() in g:\src\ppInk\src\Root.cs:line 527
+   at gInk.Program.Main(String[] args) in g:\src\ppInk\src\Program.cs:line 94
+
+09 / 23 / 2025 17:46UnhandledException
+
+version 1.9.0.31990 built on Tue 09/23/2025 1
+Oops, ppInk crashed! Please include the following information if you plan to contact the developers:
+
+Attempt by security transparent method 'Microsoft.Ink.DrawingAttributes.set_Color(System.Drawing.Color)' to call native code through method 'Microsoft.Ink.IInkDrawingAttributes.set_Color(Int32)' failed.  Methods must be security critical or security safe-critical to call native code.
+
+Stack Trace:
+   at Microsoft.Ink.DrawingAttributes.set_Color(Color value)
+   at gInk.Root.SetDefaultPens() in g:\src\ppInk\src\Root.cs:line 925
+   at gInk.Root..ctor() in g:\src\ppInk\src\Root.cs:line 527
+   at gInk.Program.Main(String[] args) in g:\src\ppInk\src\Program.cs:line 94
+
+09 / 23 / 2025 17:49UnhandledException
+
+version 1.9.0.32094 built on Tue 09/23/2025 1
+Oops, ppInk crashed! Please include the following information if you plan to contact the developers:
+
+Attempt by security transparent method 'Microsoft.Ink.DrawingAttributes.set_Color(System.Drawing.Color)' to call native code through method 'Microsoft.Ink.IInkDrawingAttributes.set_Color(Int32)' failed.  Methods must be security critical or security safe-critical to call native code.
+
+Stack Trace:
+   at Microsoft.Ink.DrawingAttributes.set_Color(Color value)
+   at gInk.Root.SetDefaultPens() in g:\src\ppInk\src\Root.cs:line 925
+   at gInk.Root..ctor() in g:\src\ppInk\src\Root.cs:line 527
+   at gInk.Program.Main(String[] args) in g:\src\ppInk\src\Program.cs:line 94
+
+09 / 23 / 2025 17:51UnhandledException
+
+version 1.9.0.32133 built on Tue 09/23/2025 1
+Oops, ppInk crashed! Please include the following information if you plan to contact the developers:
+
+Attempt by security transparent method 'Microsoft.Ink.DrawingAttributes.set_Color(System.Drawing.Color)' to call native code through method 'Microsoft.Ink.IInkDrawingAttributes.set_Color(Int32)' failed.  Methods must be security critical or security safe-critical to call native code.
+
+Stack Trace:
+   at Microsoft.Ink.DrawingAttributes.set_Color(Color value)
+   at gInk.Root.SetDefaultPens() in g:\src\ppInk\src\Root.cs:line 925
+   at gInk.Root..ctor() in g:\src\ppInk\src\Root.cs:line 527
+   at gInk.Program.Main(String[] args) in g:\src\ppInk\src\Program.cs:line 94
+
+09 / 23 / 2025 17:54UnhandledException
+
+version 1.9.0.32243 built on Tue 09/23/2025 1
+Oops, ppInk crashed! Please include the following information if you plan to contact the developers:
+
+Attempt by security transparent method 'Microsoft.Ink.DrawingAttributes.set_Color(System.Drawing.Color)' to call native code through method 'Microsoft.Ink.IInkDrawingAttributes.set_Color(Int32)' failed.  Methods must be security critical or security safe-critical to call native code.
+
+Stack Trace:
+   at Microsoft.Ink.DrawingAttributes.set_Color(Color value)
+   at gInk.Root.SetDefaultPens() in G:\src\ppInk\src\Root.cs:line 925
+   at gInk.Root..ctor() in G:\src\ppInk\src\Root.cs:line 527
+   at gInk.Program.Main(String[] args) in G:\src\ppInk\src\Program.cs:line 94
+
+09 / 23 / 2025 17:58UnhandledException
+
+version 1.9.0.32352 built on Tue 09/23/2025 1
+Oops, ppInk crashed! Please include the following information if you plan to contact the developers:
+
+Attempt by security transparent method 'Microsoft.Ink.DrawingAttributes.set_Color(System.Drawing.Color)' to call native code through method 'Microsoft.Ink.IInkDrawingAttributes.set_Color(Int32)' failed.  Methods must be security critical or security safe-critical to call native code.
+
+Stack Trace:
+   at Microsoft.Ink.DrawingAttributes.set_Color(Color value)
+   at gInk.Root.SetDefaultPens() in G:\src\ppInk\src\Root.cs:line 925
+   at gInk.Root..ctor() in G:\src\ppInk\src\Root.cs:line 527
+   at gInk.Program.Main(String[] args) in G:\src\ppInk\src\Program.cs:line 94
+
+09 / 23 / 2025 18:02UnhandledException
+
+version 1.9.0.32458 built on Tue 09/23/2025 1
+Oops, ppInk crashed! Please include the following information if you plan to contact the developers:
+
+Attempt by security transparent method 'Microsoft.Ink.DrawingAttributes.set_Color(System.Drawing.Color)' to call native code through method 'Microsoft.Ink.IInkDrawingAttributes.set_Color(Int32)' failed.  Methods must be security critical or security safe-critical to call native code.
+
+Stack Trace:
+   at Microsoft.Ink.DrawingAttributes.set_Color(Color value)
+   at gInk.Root.SetDefaultPens() in G:\src\ppInk\src\Root.cs:line 925
+   at gInk.Root..ctor() in G:\src\ppInk\src\Root.cs:line 527
+   at gInk.Program.Main(String[] args) in G:\src\ppInk\src\Program.cs:line 94
+
+09 / 23 / 2025 18:03UnhandledException
+
+version 1.9.0.32514 built on Tue 09/23/2025 1
+Oops, ppInk crashed! Please include the following information if you plan to contact the developers:
+
+Attempt by security transparent method 'Microsoft.Ink.DrawingAttributes.set_Color(System.Drawing.Color)' to call native code through method 'Microsoft.Ink.IInkDrawingAttributes.set_Color(Int32)' failed.  Methods must be security critical or security safe-critical to call native code.
+
+Stack Trace:
+   at Microsoft.Ink.DrawingAttributes.set_Color(Color value)
+   at gInk.Root.SetDefaultPens() in G:\src\ppInk\src\Root.cs:line 925
+   at gInk.Root..ctor() in G:\src\ppInk\src\Root.cs:line 527
+   at gInk.Program.Main(String[] args) in G:\src\ppInk\src\Program.cs:line 94
+
+09 / 23 / 2025 18:08UnhandledException
+
+version 1.9.0.32648 built on Tue 09/23/2025 1
+Oops, ppInk crashed! Please include the following information if you plan to contact the developers:
+
+Attempt by security transparent method 'Microsoft.Ink.DrawingAttributes.set_Color(System.Drawing.Color)' to call native code through method 'Microsoft.Ink.IInkDrawingAttributes.set_Color(Int32)' failed.  Methods must be security critical or security safe-critical to call native code.
+
+Stack Trace:
+   at Microsoft.Ink.DrawingAttributes.set_Color(Color value)
+   at gInk.Root.SetDefaultPens() in G:\src\ppInk\src\Root.cs:line 925
+   at gInk.Root..ctor() in G:\src\ppInk\src\Root.cs:line 527
+   at gInk.Program.Main(String[] args) in G:\src\ppInk\src\Program.cs:line 94
+
+09 / 23 / 2025 18:08UnhandledException
+
+version 1.9.0.32659 built on Tue 09/23/2025 1
+Oops, ppInk crashed! Please include the following information if you plan to contact the developers:
+
+Attempt by security transparent method 'Microsoft.Ink.DrawingAttributes.set_Color(System.Drawing.Color)' to call native code through method 'Microsoft.Ink.IInkDrawingAttributes.set_Color(Int32)' failed.  Methods must be security critical or security safe-critical to call native code.
+
+Stack Trace:
+   at Microsoft.Ink.DrawingAttributes.set_Color(Color value)
+   at gInk.Root.SetDefaultPens() in G:\src\ppInk\src\Root.cs:line 925
+   at gInk.Root..ctor() in G:\src\ppInk\src\Root.cs:line 527
+   at gInk.Program.Main(String[] args) in G:\src\ppInk\src\Program.cs:line 94
+
+09 / 23 / 2025 18:10UnhandledException
+
+version 1.9.0.32697 built on Tue 09/23/2025 1
+Oops, ppInk crashed! Please include the following information if you plan to contact the developers:
+
+Attempt by security transparent method 'Microsoft.Ink.DrawingAttributes.set_Color(System.Drawing.Color)' to call native code through method 'Microsoft.Ink.IInkDrawingAttributes.set_Color(Int32)' failed.  Methods must be security critical or security safe-critical to call native code.
+
+Stack Trace:
+   at Microsoft.Ink.DrawingAttributes.set_Color(Color value)
+   at gInk.Root.SetDefaultPens() in G:\src\ppInk\src\Root.cs:line 925
+   at gInk.Root..ctor() in G:\src\ppInk\src\Root.cs:line 527
+   at gInk.Program.Main(String[] args) in G:\src\ppInk\src\Program.cs:line 94
+
+09 / 23 / 2025 18:16UnhandledException
+
+version 1.9.0.32893 built on Tue 09/23/2025 1
+Oops, ppInk crashed! Please include the following information if you plan to contact the developers:
+
+Unable to load DLL 'olepro32.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+
+Stack Trace:
+   at Microsoft.Ink.SafeNativeMethods.OleCreateIPictureDispIndirect(Object pictdesc, Guid& iid, Boolean fOwn)
+   at Microsoft.Ink.InkOverlay.set_Cursor(Cursor value)
+   at gInk.FormCollection.SetPenTipCursor() in G:\src\ppInk\src\FormCollection.cs:line 4990
+   at gInk.FormCollection.StopAllZooms() in G:\src\ppInk\src\FormCollection.cs:line 7200
+   at gInk.FormCollection.Initialize() in G:\src\ppInk\src\FormCollection.cs:line 1412
+   at gInk.FormCollection..ctor(Root root) in G:\src\ppInk\src\FormCollection.cs:line 591
+   at gInk.Root..ctor() in G:\src\ppInk\src\Root.cs:line 546
+   at gInk.Program.Main(String[] args) in G:\src\ppInk\src\Program.cs:line 94
+
+09 / 23 / 2025 18:25UnhandledException
+
+version 1.9.0.33153 built on Tue 09/23/2025 1
+Oops, ppInk crashed! Please include the following information if you plan to contact the developers:
+
+Unable to load DLL 'olepro32.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+
+Stack Trace:
+   at Microsoft.Ink.SafeNativeMethods.OleCreateIPictureDispIndirect(Object pictdesc, Guid& iid, Boolean fOwn)
+   at Microsoft.Ink.InkOverlay.set_Cursor(Cursor value)
+   at gInk.FormCollection.SetPenTipCursor() in G:\src\ppInk\src\FormCollection.cs:line 4990
+   at gInk.FormCollection.StopAllZooms() in G:\src\ppInk\src\FormCollection.cs:line 7200
+   at gInk.FormCollection.Initialize() in G:\src\ppInk\src\FormCollection.cs:line 1412
+   at gInk.FormCollection..ctor(Root root) in G:\src\ppInk\src\FormCollection.cs:line 591
+   at gInk.Root..ctor() in G:\src\ppInk\src\Root.cs:line 544
+   at gInk.Program.Main(String[] args) in G:\src\ppInk\src\Program.cs:line 92
+

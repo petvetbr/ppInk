@@ -4987,8 +4987,8 @@ namespace gInk
                     IC.Cursor?.Dispose();
             }
             catch { }
-            IC.Cursor = new System.Windows.Forms.Cursor(bitmaptip.GetHicon());
-            IC.Cursor.Tag = 2;
+            //IC.Cursor = new System.Windows.Forms.Cursor(bitmaptip.GetHicon());
+            //IC.Cursor.Tag = 2;
             System.Windows.Forms.Cursor.Position = new Point(System.Windows.Forms.Cursor.Position.X, System.Windows.Forms.Cursor.Position.Y);
         }
 
@@ -6101,7 +6101,7 @@ namespace gInk
                     i = firstPen;
                 try
                 {
-                    btPen[b].BackgroundImage.Dispose();
+                    btPen[b].BackgroundImage?.Dispose();
                 }
                 catch { };
                 btPen[b].BackgroundImage = buildPenIcon(Root.PenAttr[b + i].Color, Root.PenAttr[b + i].Transparency, sel,
